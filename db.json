@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "BB-8",
+      "price": "80,00",
+      "image": "assets/bb8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Caneca",
+      "price": "60,00",
+      "image": "assets/caneca.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Game Boy",
+      "price": "60,00",
+      "image": "assets/gameboy.jpg"
+    }
+  ]
+}
